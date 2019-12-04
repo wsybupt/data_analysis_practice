@@ -9,3 +9,8 @@ APP在应用市场排名出现下降，与此同时一家竞品出现大幅攀�
 通过对用户日志进行分析，主要达到两个目的：
 1. 分析各种过滤算法发生的真实次数。
 2. 对比新老用户各方面差异，从而得出用户离开app的原因。
+
+
+
+[代码备用地址](https://nbviewer.jupyter.org/github/wsybupt/data_analysis_practice/blob/master/environment_analyse_oan.ipynb)
+
