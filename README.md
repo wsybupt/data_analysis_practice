@@ -7,8 +7,8 @@
   2. 分析房价与各个特征之间的粗略关系，为预测二手房的房价做基础
 
 - 报告地址：[北京二手房数据分析报告](https://github.com/wsybupt/data_analysis_practice/blob/master/beijing_second_hand_house_deal/analysis_report.md)
-
 - jupyter notebook代码地址：[北京二手房数据分析代码](https://github.com/wsybupt/data_analysis_practice/blob/master/beijing_second_hand_house_deal/analysis_code.ipynb)
+- 备用地址（以防github加载失败）：[nbviewer代码地址](https://nbviewer.jupyter.org/github/wsybupt/data_analysis_practice/blob/master/beijing_second_hand_house_deal/analysis_code.ipynb)
 
 
 
@@ -24,5 +24,5 @@ APP在应用市场排名出现下降，与此同时一家竞品出现大幅攀�
 1. 分析各种过滤算法发生的真实次数。
 2. 对比新老用户各方面差异，从而得出用户离开app的原因。
 
-[代码备用地址](https://nbviewer.jupyter.org/github/wsybupt/data_analysis_practice/blob/master/environment_analyse_oan.ipynb)
+[nbviewer代码地址](https://nbviewer.jupyter.org/github/wsybupt/data_analysis_practice/blob/master/pacer_user_log_analysis/environment_analyse_oan.ipynb)
 

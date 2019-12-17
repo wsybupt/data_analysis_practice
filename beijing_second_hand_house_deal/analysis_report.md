@@ -153,7 +153,11 @@
 
 ## 五、代码
 
-https://github.com/wsybupt/data_analysis_practice/blob/master/beijing_second_hand_house_deal/analysis_code.ipynb
+[github地址](https://github.com/wsybupt/data_analysis_practice/blob/master/beijing_second_hand_house_deal/analysis_code.ipynb)
+
+如果github加载失败，请访问这个地址：
+
+[nbviewer地址](https://nbviewer.jupyter.org/github/wsybupt/data_analysis_practice/blob/master/beijing_second_hand_house_deal/analysis_code.ipynb)
 
 ## 六、辛普森悖论
 
